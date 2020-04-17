@@ -1,0 +1,16 @@
+* Tor Projecct / BridgeDB / string 43 *
+
+ORIGINAL TEXT
+-------------
+The "HTTPS" distribution mechanism hands out bridges over this website. To get
+bridges, go to bridges.torproject.org, select your preferred options, and
+solve the subsequent CAPTCHA.
+
+TRANSLATION
+-----------
+Механизм распределения "HTTPS" передает мосты через этот веб-сайт. Чтобы получить
+мосты, перейдите на %sbridges.torproject.org%s, выберите ваши предпочтительные параметры и
+решите последующую капчу.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
