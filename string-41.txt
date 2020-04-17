@@ -1,0 +1,12 @@
+* Tor Projecct / BridgeDB / string 41 *
+
+ORIGINAL TEXT
+-------------
+Bridge distribution mechanisms
+
+TRANSLATION
+-----------
+Механизмы распределения мостов
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
