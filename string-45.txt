@@ -1,0 +1,16 @@
+* Tor Projecct / BridgeDB / string 45 *
+
+ORIGINAL TEXT
+-------------
+Users can request bridges from the "Email" distribution mechanism by sending an
+email to bridges@torproject.org and writing "get transport obfs4" in the
+email body.
+
+TRANSLATION
+-----------
+Пользователи могут запросить мосты из механизма распределения "Электронная почта", отправив
+электронное письмо по адресу %sbridges@torproject.org%s и написав "get transport obfs4"
+в теле письма.
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
