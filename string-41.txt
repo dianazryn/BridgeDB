@@ -1,4 +1,4 @@
-* Tor Projecct / BridgeDB / string 41 *
+* Tor Project / BridgeDB / string 41 *
 
 ORIGINAL TEXT
 -------------
