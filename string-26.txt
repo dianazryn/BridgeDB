@@ -1,0 +1,12 @@
+* Tor Project / BridgeDB / string 26 *
+
+ORIGINAL TEXT
+-------------
+[This is an automated email.]
+
+TRANSLATION
+-----------
+[Это автоматическое письмо.]
+
+
+// (c) Diana Azaryan @dianazryn, 2020.
